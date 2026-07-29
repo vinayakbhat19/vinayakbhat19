@@ -1,7 +1,7 @@
 <table>
 <tr>
 
-<td width="68%" valign="middle">
+<td width="65%" valign="middle">
 
 <h1><code>&gt; Vinayak Bhat █</code></h1>
 
@@ -32,17 +32,16 @@ deployment, and user-facing applications.
 <code>Applied ML</code>
 </p>
 
-</td>
-
-<td width="32%" align="center" valign="middle">
+<td width="35%" align="center" valign="middle">
 
 <img
-src="./assets/pixel-coder.png"
-width="230"
-alt="Pixel-art developer coding"
+  src="./assets/pixel-coder-vertical.png"
+  width="100%"
+  alt="Pixel-art developer coding"
 />
 
 </td>
+
 
 </tr>
 </table>
