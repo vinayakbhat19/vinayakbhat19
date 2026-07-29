@@ -1,7 +1,7 @@
 <table>
 <tr>
 
-<td width="65%" valign="middle">
+<td width="68%" valign="middle">
 
 <h1><code>&gt; Vinayak Bhat █</code></h1>
 
@@ -13,35 +13,33 @@
 </blockquote>
 
 <p>
-I'm an <b>AI & Machine Learning Engineering student</b> and a
-<b>Software Engineering Intern at IIIT Dharwad — CYRUS Research Group</b>,
-working on secure credential and access-management systems.
+I'm an <b>AI & Machine Learning Engineering student</b> and
+<b>Software Engineering Intern at IIIT Dharwad — CYRUS Research Group</b>.
 </p>
 
 <p>
-I build end-to-end products across <b>software engineering, machine learning,
-and AI security</b> — from architecture and experimentation to APIs,
-deployment, and user-facing applications.
+I build software at the intersection of
+<b>Software Engineering, AI/ML and AI Security</b>, with a focus on
+turning ideas into reliable, real-world systems.
 </p>
 
 <p>
-🚀 <b>Currently exploring:</b>
+🚀 <b>Exploring:</b>
 <code>AI Security</code> ·
 <code>Intelligent Systems</code> ·
-<code>Secure Identity</code> ·
-<code>Applied ML</code>
+<code>Secure Identity</code>
 </p>
-
-<td width="35%" align="center" valign="middle">
-
-<img
-  src="./assets/pixel-coder-vertical.png"
-  width="100%"
-  alt="Pixel-art developer coding"
-/>
 
 </td>
 
+<td width="32%" align="center" valign="middle">
+
+<img
+src="./assets/pixel-coder-vertical.png"
+width="100%"
+alt="Pixel developer coding">
+
+</td>
 
 </tr>
 </table>
@@ -54,10 +52,6 @@ deployment, and user-facing applications.
 
 <a href="https://github.com/vinayakbhat19">
 <img src="https://img.shields.io/badge/GitHub-vinayakbhat19-181717?style=flat-square&logo=github&logoColor=white">
-</a>
-
-<a href="mailto:vinayakkbhatt@gmail.com">
-<img src="https://img.shields.io/badge/Email-vinayakkbhatt-EA4335?style=flat-square&logo=gmail&logoColor=white">
 </a>
 
 </p>
@@ -86,7 +80,7 @@ deployment, and user-facing applications.
 - Building components for a **secure credentials and access-management system**
 - Working on **authentication mechanisms and access-control workflows**
 - Contributing to secure identity infrastructure for trusted user and system interactions
-- Collaborating with the research team on scalable and reliable identity-management solutions
+- Collaborating on scalable and reliable identity-management solutions
 
 </td>
 </tr>
@@ -105,15 +99,16 @@ deployment, and user-facing applications.
 
 **Prompt Safety & Optimization Platform**
 
-A modular AI security platform that analyzes prompts before they reach LLMs.
+AI security middleware that analyzes prompts before they reach LLMs.
 
-Detects **prompt injection, jailbreak attempts, sensitive-data leakage, and source-code exposure**.
+Detects **prompt injection, jailbreak attempts, sensitive-data leakage and source-code exposure**.
 
-Includes a **Chrome Extension, FastAPI backend, Python SDK, CLI, and dashboard**.
+Available through a **Chrome Extension, Python SDK and CLI**.
 
 <br>
 
-`Python` `FastAPI` `SQLite`  
+`Python` `FastAPI` `SQLite`
+
 `Docker` `GitHub Actions`
 
 <br><br>
@@ -124,23 +119,26 @@ Includes a **Chrome Extension, FastAPI backend, Python SDK, CLI, and dashboard**
 
 </td>
 
+
 <td width="33%" valign="top">
 
 ### 🧾 GSTVision AI
 
 **Intelligent Invoice Verification**
 
-AI-powered invoice verification using **Gemini Vision and Tesseract OCR**.
+AI-powered GST invoice verification using **Gemini Vision and OCR**.
 
-Supports **GSTIN validation, duplicate detection, fraud-risk scoring, and automated PDF reports**.
+Supports:
 
-Pipeline:
-
-`ingestion → extraction → validation → output`
+- GSTIN validation
+- Duplicate detection
+- Fraud-risk scoring
+- Automated reports
 
 <br>
 
-`Python` `FastAPI`  
+`Python` `FastAPI`
+
 `Gemini Vision` `Tesseract OCR`
 
 <br><br>
@@ -151,23 +149,25 @@ Pipeline:
 
 </td>
 
+
 <td width="33%" valign="top">
 
 ### 🧠 SupplyChainAI
 
 **Supply Chain Risk Intelligence**
 
-Temporal Graph Neural Network for forecasting supply-chain disruption risk.
+Temporal Graph Neural Network for predicting supply-chain disruption risk.
 
 Combines:
 
-`GCN + GAT + LSTM`
+### `GCN + GAT + LSTM`
 
-to model dynamic shipping networks and forecast future disruption risks from historical data.
+to model dynamic supply-chain networks and forecast future disruption risk.
 
 <br>
 
-`Python` `PyTorch` `PyG`  
+`Python` `PyTorch` `PyG`
+
 `FastAPI` `React`
 
 <br><br>
@@ -201,13 +201,41 @@ to model dynamic shipping networks and forecast future disruption risks from his
 
 ---
 
-## `> GITHUB ACTIVITY_`
+# `> GITHUB STATS_`
 
 <p align="center">
+
+<img height="165"
+src="https://github-readme-stats.vercel.app/api?username=vinayakbhat19&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true">
+
+<img height="165"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakbhat19&layout=compact&theme=github_dark&hide_border=true">
+
+</p>
+
+---
+
+## `> CURRENT STREAK_` 🔥
+
+<p align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=vinayakbhat19&theme=github-dark-blue&hide_border=true"
+alt="Vinayak's GitHub Streak">
+
+</p>
+
+---
+
+## `> CONTRIBUTION ACTIVITY_`
+
+<p align="center">
+
 <img
 width="100%"
 src="https://github-readme-activity-graph.vercel.app/graph?username=vinayakbhat19&theme=github-compact&hide_border=true&area=true"
-alt="Vinayak Bhat GitHub Activity">
+alt="Vinayak Bhat Contribution Activity">
+
 </p>
 
 ---
@@ -215,11 +243,12 @@ alt="Vinayak Bhat GitHub Activity">
 ## `> CONTRIBUTION SNAKE_` 🐍
 
 <p align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinayakbhat19/vinayakbhat19/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinayakbhat19/vinayakbhat19/output/github-contribution-grid-snake.svg">
-<img alt="Vinayak Bhat Contribution Snake" src="https://raw.githubusercontent.com/vinayakbhat19/vinayakbhat19/output/github-contribution-grid-snake.svg">
-</picture>
+
+<img
+src="https://raw.githubusercontent.com/vinayakbhat19/vinayakbhat19/output/github-contribution-grid-snake-dark.svg"
+alt="Vinayak's Contribution Snake"
+width="100%">
+
 </p>
 
 ---
@@ -227,6 +256,8 @@ alt="Vinayak Bhat GitHub Activity">
 <div align="center">
 
 ### `while (alive) { learn(); build(); improve(); }`
+
+<br>
 
 **Thanks for stopping by 👋**
 
