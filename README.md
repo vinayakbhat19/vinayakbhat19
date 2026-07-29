@@ -242,13 +242,13 @@ alt="Vinayak Bhat Contribution Activity">
 
 ## `> CONTRIBUTION SNAKE_` 🐍
 
-<p align="center">
+## `> CONTRIBUTION SNAKE_` 🐍
 
+<p align="center">
 <img
-src="https://raw.githubusercontent.com/vinayakbhat19/vinayakbhat19/output/github-contribution-grid-snake-dark.svg"
+src="https://raw.githubusercontent.com/vinayakbhat19/vinayakbhat19/gh-pages/github-contribution-grid-snake-dark.svg"
 alt="Vinayak's Contribution Snake"
 width="100%">
-
 </p>
 
 ---
