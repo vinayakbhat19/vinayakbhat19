@@ -201,19 +201,6 @@ to model dynamic supply-chain networks and forecast future disruption risk.
 
 ---
 
-# `> GITHUB STATS_`
-
-<p align="center">
-
-<img height="165"
-src="https://github-readme-stats.vercel.app/api?username=vinayakbhat19&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true">
-
-<img height="165"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakbhat19&layout=compact&theme=github_dark&hide_border=true">
-
-</p>
-
----
 
 ## `> CURRENT STREAK_` 🔥
 
