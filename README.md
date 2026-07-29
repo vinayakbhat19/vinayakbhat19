@@ -1,222 +1,148 @@
-<!-- ===================================================== -->
-<!--                    VINAYAK BHAT                        -->
-<!-- ===================================================== -->
+<table>
+<tr>
+<td width="52%" valign="top">
 
-<h1 align="center">👋 Hey, I'm Vinayak Bhat</h1>
+# `> Vinayak Bhat █`
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+AI%2FML+Engineer;Building+Secure+%26+Intelligent+Systems;AI+Security+%7C+Machine+Learning+%7C+Backend;Turning+Ideas+Into+Working+Software"
-    alt="Typing SVG"
-  />
-</p>
+### Software Engineer · AI/ML Engineer
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vinayakbhat19">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/vinayakbhat19">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-</p>
+```text
+// Building secure, intelligent software systems
+// from backend infrastructure to applied AI.
+```
 
----
+I'm an **AI & Machine Learning Engineering student** and a **Software Engineering Intern at IIIT Dharwad — CYRUS Research Group**, working on secure credential and access-management systems.
 
-## 👨‍💻 About Me
+I build end-to-end products across **software engineering, machine learning, and AI security** — from architecture and experimentation to APIs, deployment, and user-facing applications.
 
-<img align="right" width="210" src="./assets/doraemon.gif" alt="Doraemon Dancing"/>
+🚀 **Currently exploring:** `AI Security` · `Intelligent Systems` · `Secure Identity` · `Applied ML`
 
-I'm **Vinayak Bhat**, an **AI & Machine Learning Engineering student** who enjoys building intelligent software systems that solve real-world problems.
+</td>
+<td width="48%" align="center" valign="middle">
 
-💼 Currently working as a **Software Engineering Intern** at **IIIT Dharwad — CYRUS Research Group**, contributing to secure credentials and access management systems.
+<img src="./assets/pixel-coder.png" width="100%" alt="Pixel-art developer coding at night"/>
 
-🔐 I'm particularly interested in the intersection of **Software Engineering, Artificial Intelligence and Security**.
+</td>
+</tr>
+</table>
 
-🤖 I enjoy building end-to-end AI systems — from **data processing and model development to APIs, deployment and user-facing applications**.
-
-🧠 My interests include **AI Security, Responsible AI, Machine Learning, Intelligent Systems and Backend Engineering**.
-
-⚡ I learn best by building things, breaking them, understanding why they broke, and rebuilding them better.
-
-<br clear="right"/>
-
----
-
-## 🧰 Languages & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,flask,django,react,postgres,mysql,sqlite,docker,git,github&perline=13" />
-</p>
-
-<p align="center">
-  <sub>Python • PyTorch • scikit-learn • FastAPI • Flask • Django • React • PostgreSQL • MySQL • SQLite • Docker • Git • GitHub</sub>
+<p align="left">
+  <a href="https://www.linkedin.com/in/vinayakbhat19"><img src="https://img.shields.io/badge/LinkedIn-vinayakbhat19-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/vinayakbhat19"><img src="https://img.shields.io/badge/GitHub-vinayakbhat19-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:vinayakkbhatt@gmail.com"><img src="https://img.shields.io/badge/Email-vinayakkbhatt-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-## 💼 Experience
+## `> LANGUAGES & TOOLS_`
 
-### Software Engineering Intern
-**IIIT Dharwad — CYRUS Research Group**  
-`July 2026 — Present`
-
-- Building components for a **secure credentials and access management system**.
-- Working on authentication mechanisms and access-control workflows.
-- Contributing to secure identity infrastructure for trusted user and system interactions.
-- Collaborating with the research team on scalable identity-management solutions.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,flask,django,react,postgres,mysql,sqlite,docker,git,github&perline=13" alt="Languages and tools"/>
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## `> EXPERIENCE_`
 
 <table>
 <tr>
+<td width="100%">
 
-<td width="33%" valign="top">
+### 💼 Software Engineering Intern &nbsp; `CURRENT`
 
-### 🛡️ PromptShield AI
+**IIIT Dharwad — CYRUS Research Group**  
+`July 2026 — Present`
 
-**Prompt Safety & Optimization Platform**
-
-A modular security layer that analyzes prompts before they reach LLMs.
-
-Detects:
-
-- Prompt injection
-- Jailbreak attempts
-- Sensitive data leakage
-- Source-code exposure
-
-Includes a **Chrome Extension, FastAPI backend, Python SDK, CLI and dashboard**.
-
-**Stack**
-
-`Python` `FastAPI` `SQLite`  
-`Docker` `GitHub Actions`
-
-<br>
-
-<a href="https://github.com/vinayakbhat19/promptshield">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
+- Building components for a **secure credentials and access-management system**
+- Working on **authentication mechanisms, access-control workflows, and secure identity infrastructure**
+- Contributing to scalable identity-management solutions for trusted user and system interactions
+- Collaborating with the research team on secure, reliable, production-oriented systems
 
 </td>
-
-
-<td width="33%" valign="top">
-
-### 🧾 GSTVision AI
-
-**Intelligent Invoice Verification**
-
-AI-powered invoice verification system using OCR and vision-based extraction.
-
-Features:
-
-- GSTIN validation
-- Invoice extraction
-- Duplicate detection
-- Fraud-risk scoring
-- Automated reports
-
-Designed using a modular processing pipeline for supporting new invoice formats.
-
-**Stack**
-
-`Python` `FastAPI`  
-`Gemini Vision` `Tesseract OCR`
-
-<br>
-
-<a href="https://github.com/vinayakbhat19/aigstverify">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-
-<td width="33%" valign="top">
-
-### 🧠 SupplyChainAI
-
-**Supply Chain Risk Intelligence**
-
-AI forecasting system using a **Temporal Graph Neural Network** to model dynamic shipping networks.
-
-Combines:
-
-- GCN
-- GAT
-- LSTM
-
-Forecasts future disruption risks using historical supply-chain data.
-
-Includes live model retraining and a React analytics dashboard.
-
-**Stack**
-
-`Python` `PyTorch`  
-`PyTorch Geometric` `FastAPI` `React`
-
-<br>
-
-<a href="https://github.com/vinayakbhat19/SupplyChainAI">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
 </tr>
 </table>
 
 ---
 
-## 🧠 What I'm Interested In
+## `> FEATURED PROJECTS_`
 
-```text
-                    Software Engineering
-                           │
-             ┌─────────────┴─────────────┐
-             │                           │
-        AI / Machine                AI Security
-             │                           │
-      Deep Learning              Secure Systems
-             │                           │
-   Intelligent Systems        Identity & Access
-             │                           │
-             └─────────────┬─────────────┘
-                           │
-                  Real-World Products
-```
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🛡️ PromptShield AI
+**Prompt Safety & Optimization Platform**
+
+A modular AI security platform that analyzes prompts before they reach LLMs and detects prompt injection, jailbreak attempts, sensitive-data leaks, and source-code exposure.
+
+`Python` `FastAPI` `SQLite`  
+`Docker` `GitHub Actions`
+
+<br><br>
+<a href="https://github.com/vinayakbhat19/promptshield"><img src="https://img.shields.io/badge/VIEW_PROJECT-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+<td width="33%" valign="top">
+
+### 🧾 GSTVision AI
+**Intelligent Invoice Verification**
+
+AI-powered invoice verification using Gemini Vision and Tesseract OCR with GSTIN validation, duplicate detection, fraud-risk scoring, and automated PDF reports.
+
+`Python` `FastAPI` `Gemini Vision`  
+`Tesseract OCR` `GST API`
+
+<br><br>
+<a href="https://github.com/vinayakbhat19/aigstverify"><img src="https://img.shields.io/badge/VIEW_PROJECT-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+<td width="33%" valign="top">
+
+### 🧠 SupplyChainAI
+**Supply Chain Risk Intelligence**
+
+Temporal GNN combining **GCN + GAT + LSTM** to model dynamic shipping networks and forecast future disruption risk from historical supply-chain data.
+
+`Python` `PyTorch` `PyG`  
+`FastAPI` `React`
+
+<br><br>
+<a href="https://github.com/vinayakbhat19/SupplyChainAI"><img src="https://img.shields.io/badge/VIEW_PROJECT-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Activity
+## `> INTERESTS_`
 
 <p align="center">
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=vinayakbhat19&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
-  />
-  <img
-    width="49%"
-    src="https://streak-stats.demolab.com?user=vinayakbhat19&theme=github-dark-blue&hide_border=true"
-  />
-</p>
-
-<p align="center">
-  <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=vinayakbhat19&theme=github-compact&hide_border=true&area=true"
-  />
+<img src="https://img.shields.io/badge/Software_Engineering-0D1117?style=for-the-badge&logo=codefactor&logoColor=00D8FF"/>
+<img src="https://img.shields.io/badge/AI_%2F_Machine_Learning-0D1117?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI_Security-0D1117?style=for-the-badge&logo=securityscorecard&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/Intelligent_Systems-0D1117?style=for-the-badge&logo=probot&logoColor=00D8FF"/>
+<img src="https://img.shields.io/badge/Secure_Identity-0D1117?style=for-the-badge&logo=auth0&logoColor=FFD700"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## `> GITHUB ACTIVITY_`
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vinayakbhat19/vinayakbhat19/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vinayakbhat19&theme=github-compact&hide_border=true&area=true" alt="Vinayak Bhat GitHub contribution activity"/>
+</p>
+
+---
+
+## `> CONTRIBUTION SNAKE_` 🐍
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinayakbhat19/vinayakbhat19/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinayakbhat19/vinayakbhat19/output/github-contribution-grid-snake.svg"/>
+    <img alt="Vinayak Bhat contribution snake" src="https://raw.githubusercontent.com/vinayakbhat19/vinayakbhat19/output/github-contribution-grid-snake.svg"/>
+  </picture>
 </p>
 
 ---
@@ -225,26 +151,6 @@ Includes live model retraining and a React analytics dashboard.
 
 ### `while(alive) { learn(); build(); improve(); }`
 
-<br>
-
-**Thanks for stopping by 👋**
+**Thanks for stopping by 👋 · Let's build something awesome.**
 
 </div>
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/vinayakbhat19/vinayakbhat19/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/vinayakbhat19/vinayakbhat19/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="Vinayak's contribution snake"
-      src="https://raw.githubusercontent.com/vinayakbhat19/vinayakbhat19/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
-</p>
